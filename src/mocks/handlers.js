@@ -7,7 +7,7 @@ export const handlers = [
   }),
 ];
 
-export const data = [
+ export const data = [
   {
     name: "Luke Skywalker",
     height: "172",
